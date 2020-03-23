@@ -1,0 +1,15 @@
+.MyContainer{
+    max-width: 25%;
+    max-height: 25%;
+    text-align: center;
+    margin: auto;
+}
+
+.listTodo{
+    border: black;
+    border-width: 1px;
+}
+
+.input-add-todo,.btn-add-todo{
+    margin-top: 1%;
+}
